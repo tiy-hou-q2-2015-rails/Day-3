@@ -19,27 +19,6 @@ Day 3 - Classes
 1. Classes
 1. Inheritance
 1. Initialize
-1. Instance Variables
-
-- A "class" is data (like a hash) plus behavior (methods)
-- Instead of `{first_name: "Jesse", last_name: "Wolgamott"}`
-
-```ruby
-class Person
-  def initialize(first_name, last_name)
-    @first_name = first_name
-    @last_name = last_name
-  end
-  
-  def full_name
-    [@first_name, @last_name].join(" ")
-  end
-end
-
-jwo = Person.new("jesse", "wolgamott")
-jwo.full_name
-=> "jesse wolgamott"
-```
 
 Assignment
 ----------
