@@ -6,8 +6,8 @@ Take the data below, and create an array of formatted addresses, in the US.
 * Then, loop over each formatted address and output each formatted address
 * a formatted address looks like:
 
-> Jesse Wolgamott
-> 103 Montrose
+> Jesse Wolgamott  
+> 103 Montrose  
 > Houston, TX 77079
 
 
