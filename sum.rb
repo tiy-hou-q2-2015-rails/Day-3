@@ -9,6 +9,9 @@ class Array
   end
 end
 
+# numbers = Array.new()
+# numbers << 5 << 6 << 7 << 8
+
 numbers = [5,6,7,8]
 
 # puts numbers.sum.to_f / numbers.count
