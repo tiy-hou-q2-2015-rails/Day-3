@@ -22,7 +22,8 @@ data = [
     address_line_1: "103 Montrose",
     city: "Houston",
     state: "TX",
-    zip: "77006"
+    zip: "77006",
+    country: "USA"
   },
   {
     first_name: "Sarah",
@@ -30,7 +31,8 @@ data = [
     address_line_1: "303 Greenpark",
     city: "Houston",
     state: "TX",
-    zip: "77079"
+    zip: "77079",
+    country: "USA"
   },
   {
     first_name: "Fred",
@@ -38,7 +40,8 @@ data = [
     address_line_1: "4567 Ruby Way",
     city: "Beverly Hills",
     state: "CA",
-    zip: "90210"
+    zip: "90210",
+    country: "USA"
   },
   {
     first_name: "Tom",
